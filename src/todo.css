@@ -1,0 +1,22 @@
+.btn {
+    margin-right:0px;
+    display:inline-block;
+}
+.collection {
+    border:0;
+}
+.collection-item {display:inline-block; width :80%;border:0;box-shadow:1px solid gray;margin-right:2
+    ;}
+.green1 {
+    color:#26a69a;
+    
+}   
+.gray1 {
+    color:gray;
+}
+.material-icons {
+    cursor:pointer;
+}
+.main {background:tan;
+width:100%;
+height:100%;}
